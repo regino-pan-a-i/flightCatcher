@@ -14,7 +14,6 @@ By creating this project I inteded to practice with the use of a wide viriety of
 
 I used Java JDK, Visual Studio Code, Github, Chat GPT, and FlightLabs to develop my project.
 
-{Describe the programming language that you used and any libraries.}
 Within the Java language I had to download the json-simple.jar library to access the information provided by the API, java.util for basic methods such as arrays and scanner, and java.net.HttpURLConnection to stablish connecition to an outside server.
 
 
