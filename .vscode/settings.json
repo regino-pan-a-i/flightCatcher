@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/andreregino/Downloads/json-simple-1.1.jar",
+        "/Users/andreregino/Desktop/Java learning module/json-simple-1.1.jar"
+    ]
+}
